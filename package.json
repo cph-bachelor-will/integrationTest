@@ -1,0 +1,24 @@
+{
+  "author": "William Bech",
+  "name": "gist-expressauthentication",
+  "description": "Simple Express authentication example",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {
+    "express": "2.2.x",
+    "jade": "0.20.x",
+    "mongodb": "^2.2.25"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "http-status": "^1.0.1",
+    "mocha": "^3.4.2",
+    "nodemon": "^1.11.0",
+    "superagent": "^3.5.2"
+  }
+}
